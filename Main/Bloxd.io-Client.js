@@ -1,4 +1,4 @@
-// ==UserScript==
+// ==JavaScript==
 // @name         Bloxd.io Client v1.0(Obfuscated)
 // @namespace    http://tampermonkey.net/
 // @version      1.0
